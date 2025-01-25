@@ -16,7 +16,7 @@
 ## Task 2: Ping-Pong IPC Program
 - Implement a program that demonstrates inter-process communication
 - Use pipes for process communication
-- Reference the sample pipe program provided in the [lab2-instrucitons.md](./ipc-example.md) file.
+- Reference the sample pipe program provided in the [ipc-example.md](./ipc-example.md) file.
 - Requirements:
     - Create two processes that communicate with each other
     - Implement a ping-pong message exchange pattern
