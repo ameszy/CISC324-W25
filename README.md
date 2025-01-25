@@ -16,7 +16,8 @@ The lab materials are organized as follows:
 
 xv6-riscv is an educational operating system developed by MIT for teaching operating system concepts. It's a modern reimplementation of Unix V6 using RISC-V architecture, making it an excellent learning tool for understanding OS fundamentals.
 
-Key benefits for students:
+Key features and advantages:
+
 - Clean, minimal codebase that's easy to understand
 - Well-documented implementation of core OS concepts
 - Practical platform for experimenting with OS modifications
