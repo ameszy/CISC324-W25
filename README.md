@@ -23,7 +23,7 @@ Key features and advantages:
 - Practical platform for experimenting with OS modifications
 - Modern architecture support (RISC-V)
 
-The original xv6 was created by Frans Kaashoek, Robert Morris, and Russ Cox, with the RISC-V port developed by the MIT PDOS group. Special thanks to all contributors who maintain this valuable educational resource.
+The original xv6 was created by Frans Kaashoek, Robert Morris, and Russ Cox, with the RISC-V port developed by the MIT PDOS group. Special thanks to all contributors who maintain this valuable educational resource. For more information, visit the [xv6 GitHub repository](https://github.com/mit-pdos/xv6-riscv)
 
 ## What is RISC-V?
 
