@@ -6,10 +6,10 @@
 
 ## Task 1: XV6 Installation
 - Follow the installation instructions provided in [install-xv6-riscv.md](../../install-xv6-riscv.md)
-- Installation has been tested on:
-    - Linux (primary platform)
-    - Windows (basic support)
-    - macOS (basic support)
+- Installation platforms:
+    - Linux (tested on Ubuntu 24.4 LTS)
+    - Windows (not tested us, should work with WSL)
+    - macOS (not tested, should work with Homebrew)
 - Ensure your installation is working by running basic XV6 commands
 - Document any issues encountered during installation
 
