@@ -26,18 +26,21 @@ How to install and run xv6-riscv on different operating systems:
 - Take the screenshot of the output and save it in a file named `lab2_yourname.pdf`.
 
 ## Task 2: Ping-Pong IPC Program
-- Implement a program that demonstrates inter-process communication
-- Use pipes for process communication
+- Implement a program (in c language) that demonstrates a two-way inter-process communication using pipes.
+    - You can use any code editor (for example, vscode, atom, notepad) to write the program.
+- The program should enable communication between a parent and the child as a conversation-style message exchange.
 
 - Requirements:
-    - Create two processes that communicate with each other
-    - Implement a ping-pong message exchange pattern
-    - Demonstrate proper process synchronization
+    - Create two processes that communicate with each other.
+    - Implement a ping-pong message exchange pattern.
+    - Demonstrate proper process synchronization.
+
+- Take the screenshot of the output of ping-pong program and append it in the `lab2_yourname.pdf` file.
 
 ## Submission
-- Submit documentation of successful XV6 installation
-- Submit your ping-pong program implementation
-- Include any challenges faced and solutions found
+
+- Submit your ping-pong program implementation.
+- Submit the file `lab2_yourname.pdf` that may also include any challenges and solution you found during the task completion process.
 
 ## Resources
 - Sample pipe program in Lab 2 folder
