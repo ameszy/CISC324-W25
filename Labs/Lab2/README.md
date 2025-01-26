@@ -28,6 +28,7 @@ How to install and run xv6-riscv on different operating systems:
 ## Task 2: Ping-Pong IPC Program
 - Implement a program (in c language) that demonstrates a two-way inter-process communication using pipes.
     - You can use any code editor (for example, vscode, atom, notepad) to write the program.
+    - The program file should include your name and student ID at the top as a comment.
 - The program should enable communication between a parent and the child as a conversation-style message exchange.
 
 - Requirements:
