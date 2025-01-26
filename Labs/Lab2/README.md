@@ -2,7 +2,7 @@
 
 ## Objectives
 1. Install XV6 operating system on your machine and run the [pipe_example.c](./pipe_example.c) program on the new operating system.
-2. Implement a ping-pong program using inter-process communication (IPC)
+2. Implement a ping-pong program using inter-process communication (IPC).    
 
 ## Task 1: XV6 Installation
 <!-- - Follow the installation instructions provided in [install-xv6-riscv.md](../../install-xv6-riscv.md) -->
@@ -39,8 +39,9 @@ How to install and run xv6-riscv on different operating systems:
 
 ## Submission
 
-- Submit your ping-pong program implementation.
-- Submit the file `lab2_yourname.pdf` that may also include any challenges and solution you found during the task completion process.
+- Compress the following two files and submit through onQ.
+    - Your ping-pong program implementation.
+    - The file `lab2_yourname.pdf` that may also include any challenges and solution you found during the task completion process.
 
 ## Resources
 - Sample pipe program in Lab 2 folder
