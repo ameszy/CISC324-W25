@@ -19,7 +19,7 @@ How to install and run xv6-riscv on different operating systems:
 
 - Ensure your installation is working by running echo `hello xv6` in the xv6 shell.
 
-- After successful installation of the OS, follow the instruction in [ipc-example.md](./ipc-example.md) file to run given sample program for a unidirectional pipe example to communicate between a parent and a child.
+- After successful installation of the OS, follow the instruction in [ipc-example.md](./ipc-example.md) file to run the given sample program for a unidirectional pipe example to communicate between a parent and a child.
 
 - Change the message to "hello `<Your name and ID>`, this is a message from the child to the parent."
 
