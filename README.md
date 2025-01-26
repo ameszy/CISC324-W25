@@ -33,11 +33,11 @@ RISC-V is an open-source instruction set architecture (ISA) based on reduced ins
 
 How to install and run xv6-riscv on different operating systems:
 
-- [Ubuntu](install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-ubuntu)
+- [Ubuntu](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-ubuntu)
 
-- [Windows](install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-windows)
+- [Windows](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-windows)
 
-- [macOS](install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-macos)
+- [macOS](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-macos)
 
 
 
