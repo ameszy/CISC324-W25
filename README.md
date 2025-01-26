@@ -2,7 +2,7 @@
 
 Welcome to the CISC 324 Lab for Winter 2025. This repository will be used to distribute lab materials and assignments.
 
-## How the lab will be structured
+<!-- ## How the lab will be structured
 
 In this course, we will use the xv6-riscv operating system as our core learning platform. You'll work directly with its source code to understand operating system concepts in practice.
 
@@ -10,7 +10,7 @@ The lab materials are organized as follows:
 - Each lab has its own dedicated directory (Lab1, Lab2, etc.)
 - Lab materials, instructions, and assignments will be provided in the respective directories
 - Source code modifications and implementations will be done within these lab-specific folders
-- Additional resources and documentation will be distributed as needed throughout the term
+- Additional resources and documentation will be distributed as needed throughout the term -->
 
 ## A brief introduction to xv6-riscv
 
@@ -29,15 +29,7 @@ The original xv6 was created by Frans Kaashoek, Robert Morris, and Russ Cox, wit
 
 RISC-V is an open-source instruction set architecture (ISA) based on reduced instruction set computing (RISC) principles. It's designed to be simple, extensible, and suitable for a wide range of applications, from embedded systems to supercomputers.
 
-<!-- ## How to install and run xv6-riscv
 
-How to install and run xv6-riscv on different operating systems:
-
-- [Ubuntu](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-ubuntu)
-
-- [Windows](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-windows)
-
-- [macOS](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-macos) -->
 
 
 
