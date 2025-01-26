@@ -24,8 +24,7 @@ Ensure you have **xv6-riscv** set up on your system. If you haven’t done this 
     cd xv6-riscv/Lab2
     ```
 2. Go to the [pipe_example.c](./pipe_example.c) file in your text editor to view the sample pipe communication program.
- - What is pipe communication?
-    A pipe is a form of **inter-process communication (IPC)** that allows data to be passed from one process to another.
+ - Through this example, we demonstrate a unidirectional pipe communication between a parent and a child process. 
 
 3. Inside the `xv6-riscv` repository, navigate to the `user/` directory.
 
