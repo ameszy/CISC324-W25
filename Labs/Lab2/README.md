@@ -1,7 +1,7 @@
 # CISC 324 - Lab 2: XV6 Installation and IPC Programming
 
 ## Objectives
-1. Install XV6 operating system on your machine
+1. Install XV6 operating system on your machine and run the [pipe_example.c](./pipe_example.c) program on the new operating system.
 2. Implement a ping-pong program using inter-process communication (IPC)
 
 ## Task 1: XV6 Installation
