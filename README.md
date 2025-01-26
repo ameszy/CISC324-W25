@@ -29,7 +29,7 @@ The original xv6 was created by Frans Kaashoek, Robert Morris, and Russ Cox, wit
 
 RISC-V is an open-source instruction set architecture (ISA) based on reduced instruction set computing (RISC) principles. It's designed to be simple, extensible, and suitable for a wide range of applications, from embedded systems to supercomputers.
 
-## How to install and run xv6-riscv
+<!-- ## How to install and run xv6-riscv
 
 How to install and run xv6-riscv on different operating systems:
 
@@ -37,7 +37,7 @@ How to install and run xv6-riscv on different operating systems:
 
 - [Windows](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-windows)
 
-- [macOS](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-macos)
+- [macOS](./Labs/Lab2/install-xv6-riscv.md#how-to-install-and-run-xv6-riscv-on-macos) -->
 
 
 
