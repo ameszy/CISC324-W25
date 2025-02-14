@@ -19,10 +19,8 @@ Ensure you have **xv6-riscv** set up on your system. If you haven’t done this 
 
 ## Step 2: Implement the Pipe Communication Program
 
-1. Navigate to the `Lab2` directory in the `xv6-riscv` repository:
-    ```bash
-    cd xv6-riscv/Lab2
-    ```
+1. Navigate to the `Lab2` directory in the [https://github.com/anwardr/CISC324-W25](https://github.com/anwardr/CISC324-W25) repository:
+
 2. Go to the [pipe_example.c](./pipe_example.c) file in your text editor to view the sample pipe communication program.
  - Through this example, we demonstrate a unidirectional pipe communication between a parent and a child process. 
 
