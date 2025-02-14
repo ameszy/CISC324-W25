@@ -22,7 +22,7 @@ Ensure you have **xv6-riscv** set up on your system. If you haven’t done this 
 1. Navigate to the `Lab2` directory in the [https://github.com/anwardr/CISC324-W25](https://github.com/anwardr/CISC324-W25/edit/main/Labs) repository.
 
 2. Open the [pipe_example.c](./pipe_example.c) file in your text editor to view the sample pipe communication program.
- - Through this example, we demonstrate a unidirectional pipe communication between a parent and a child process. 
+     - Through this example, we demonstrate a unidirectional pipe communication between a parent and a child process. 
 
 3. Inside the `xv6-riscv` repository which you cloned step 1, navigate to the `user/` directory.
 
