@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 
 #ifdef SCHEDULER_PBS
     printf("\n=== Priority-Based Scheduler Test ===\n");
-
+#elif SCHEDULER_FCFS
 //TODO-2 : Print a message indicating that the Priority-Based Scheduler is selected 
 
 #else
@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
             start_time = uptime();
             printf("Process %d (priority %d) started at tick %d\n",
                    getpid(), priority, start_time);
-
+            // TODO-3: Look for instructions in the assignment 
             compute_work(100);
 
             end_time = uptime();
