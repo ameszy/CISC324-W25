@@ -35,7 +35,7 @@ int main(int argc, char *argv[])
     printf("Creating 3 processes with priorities: 60, 30 and 0\n");
     printf("Lower number = higher priority\n\n");
     sleep(10);
-
+    // TODO-4: Get from user the number of processes to be shceduled 
     for (i = 0; i < 3; i++)
     {
         pid = fork();
